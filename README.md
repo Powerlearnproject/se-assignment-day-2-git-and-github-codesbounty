@@ -30,7 +30,6 @@ Why GitHub is a Popular Tool for Version Control:
 6. Community and Documentation: GitHub is home to millions of repositories and developers worldwide. It offers powerful documentation capabilities, issue tracking, and wikis for project collaboration and knowledge sharing.
 
 7. Security and Version History: GitHub provides detailed commit histories, allowing teams to trace every change, revert problematic updates, and maintain a clear audit trail. Security features like code scanning, dependency analysis, and secret management help protect codebasesIn summary, version control ensures that a project's integrity is maintained by tracking changes, enabling collaboration without conflict, providing a safety net for reverting mistakes, and enforcing disciplined development processes through features like branching, merging, and reviewing.
-   
 version control ensures that a project's integrity is maintained by tracking changes, enabling collaboration without conflict, providing a safety net for reverting mistakes, and enforcing disciplined development processes through features like branching, merging, and reviewing.
    
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
